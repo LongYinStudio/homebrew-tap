@@ -1,7 +1,7 @@
 cask "video-downloader" do
-  version "0.5.0"
+  version "0.5.1"
 
-  sha256 "6aa74549083e97604416c2b65e4b5ccb159eb7f4667d29761fff645487376f03"
+  sha256 "sha256:7221995f538960721bdbe79b89e8ec49e295d91f85639a8822c5f6cf4e05da80"
 
   url "https://github.com/LongYinStudio/video-downloader/releases/download/v#{version}/video-downloader_#{version}_universal.dmg"
 
