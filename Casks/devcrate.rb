@@ -9,5 +9,5 @@ cask "devcrate" do
   desc "聚码成匣。基于 Tauri 构建的极速、跨平台开发者工具箱（支持 Linux/macOS/Windows）"
   homepage "https://github.com/LongYinStudio/DevCrate"
 
-  app "devcrate/devcrate.app"
+  app "devcrate.app"
 end
