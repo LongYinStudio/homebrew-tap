@@ -1,7 +1,7 @@
 cask "devcrate" do
-  version "0.2.0"
+  version "0.3.0"
 
-  sha256 "3dd08dd8b04f07bfdad15a0ffa803d800700ad35303b2ce8b4d0d62338d4de86"
+  sha256 "1e672b967940e85c544499d699f6fcd953912d4fcbd0963292b9b32e85c2193b"
 
   url "https://github.com/LongYinStudio/DevCrate/releases/download/v#{version}/devcrate_#{version}_universal.dmg"
 
